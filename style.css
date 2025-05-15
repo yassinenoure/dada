@@ -1,0 +1,70 @@
+header img{
+    width: 100%;
+    height: 300px;
+}
+main{width: 100%;
+    text-align: center;
+}
+.bb{
+    width:100% ;
+    height: 500px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+margin-top: -30px;
+}
+.ca{
+    width: 500px;
+    height: 160px;
+}
+h2{
+    font-size: 30px;
+}
+h1{
+    font-size: 30px;
+}
+ p {
+    font-size: 15px;
+}
+.box .dd a {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.box{ width: 100%;
+    height: 470px;
+    background-color: rgba(1, 62, 11, 0.804);
+    text-align: center;
+}
+.dd{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+}
+.dd .pn{
+   margin-top: 40px;
+    width: 100px;
+} .dd .pn2{
+    width: 350px;
+}
+.dd .tt{
+color: aliceblue;
+text-decoration: none;
+font-size: 40px;
+}
+footer .socialTable{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+footer .socialTable .sCol1{
+     width: 100%;
+    height: 66px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(240, 235, 229);
+}
